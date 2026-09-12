@@ -41,7 +41,7 @@ Built with: Python, LangGraph, Sarvam AI models, Google Cloud Pub/Sub, TMDB API
 
 ---
 
-### [Neural Inference Optimizer](https://github.com/SONAI-07/LLM_inference-Engine.git)
+### [LLM Inference Engine Optimizer](https://github.com/SONAI-07/LLM_inference-Engine.git)
 
 A benchmarking infrastructure to evaluate and optimize the performance of Large Language Models.
 
