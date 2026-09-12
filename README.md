@@ -10,8 +10,13 @@ I engineer resilient backend systems, optimize API gateways, and design scalable
 
 ### Engineering Highlights
 
-* **bingeWatch (Multi-Agent System):** Built an automated content curator using LangGraph, Sarvam AI models, and GCP Pub/Sub. Designed asynchronous sequential nodes for theme extraction and TMDB API resolution to orchestrate complex workflows.
-* **Dispatch Optimization Engine:** Engineered a service allocation backend utilizing Redis Geohashing for provider search and the Haversine distance formula for load-balanced dispatch, managing capacity constraints and booking timeouts.
-* **Custom Reverse Proxy & API Gateway:** Developed a reverse proxy engine in Java using Spring Boot and Jetty to manage, route, and load-balance traffic across backend ports.
-* **Neural Inference Optimizer:** Built benchmarking infrastructure in Python utilizing PyTorch inference handlers to evaluate LLM latency, throughput, concurrency scaling, and key-value cache behavior under heavy thread-pool loads.
+* **Neural Inference Optimizer :** Built benchmarking infrastructure in Python utilizing PyTorch inference handlers to evaluate LLM latency, throughput, concurrency scaling, and key-value cache behavior under heavy thread-pool loads.
+
+* **Movie Curator Agent :** Built an automated content curator using LangGraph, Sarvam AI models, and GCP Pub/Sub. Designed asynchronous sequential nodes for theme extraction and TMDB API resolution to orchestrate complex workflows.
+
+* **Dispatch Optimization Engine :** Engineered a service allocation backend utilizing Redis Geohashing for provider search and the Haversine distance formula for load-balanced dispatch, managing capacity constraints and booking timeouts.
+
+* **API Gateway & Custom Reverse Proxy :** Developed a reverse proxy engine in Java using Spring Boot and Jetty to manage, route, and load-balance traffic across backend ports.
+
+
 * **Service Allocation Platform:** Engineered a booking platform backend integrating distributed locking, Redis-backed provider search algorithms, and Firebase Cloud Messaging for real-time push notifications.
