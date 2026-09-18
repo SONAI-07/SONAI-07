@@ -4,10 +4,10 @@ I am Archan - an Applied AI & Backend Engineer, bridging complex distributed sys
 
 If not building high-performance backends, you'll find me exploring the depths of retrieval-augmented generation (RAG) pipelines, benchmarking LLM inference latency, and optimizing key-value cache behaviors.
 
-- 🏆 **System Architect**, engineering resilient service booking platforms with Redis Geohashing, distributed locking, and real-time push notifications
-- 🛠 **AI Infrastructure Builder**, developing automated content curators like LLM inference optimisers and Movie curator engines.
-- 🚀 **Backend Developer**, mastering Distributed systems across Spring Boot, FastAPI, Redis, and PostgreSQL for robust data flow
-- 📖 When not coding on my Mac, I'm diving deep into AI research papers or exploring scalable system design patterns. (Follow my journey on X)
+- 🛠 **AI Infrastructure Builder** : designed a Production graded Voice AI agent with safe fallbacks and PII evals for Sales conversations.
+- 🏆 **Distributed System Builder** : engineering distributed resilient service booking platforms with Redis Geohashing, distributed locking, and real-time push notifications
+- 🚀 **Backend Developer** : failing but learning systems across Spring Boot, FastAPI, Redis, and PostgreSQL for robust data flow.
+- 📖 When not coding on my Mac, I'm diving deep into AI research papers or exploring scalable patterns. (Follow my journey on X)
 
 - 😄 "CODE IS CHEAP - SHOW ME THE SYSTEM DESIGN"
 
