@@ -1,78 +1,55 @@
-<div align="center">
-  <h1>Hi, I'm Archan Banerjee 👋</h1>
-  <p><b> AI Infrastructure & Backend Engineer</b></p>
-  <p>Building scalable productionised Multi-agent systems integrating resilient backend architectures with Robust Inference systems.</p>
-  <p>
-    <a href="mailto:sonaibanerjee571@gmail.com">Email</a> • 
-    <a href="https://x.com/ArchanPsioppen">X / Twitter</a> • 
-    <a href="https://linkedin.com/in/archan-banerjee-b5793521b">LinkedIn</a>
+### Hello there 👋
+
+I am Archan - an Applied AI & Backend Engineer, bridging complex distributed systems and scalable AI workflows. I enable robust application architectures - from designing database schemas and custom API gateways in Java and Spring Boot, to orchestrating multi-agent systems using LangGraph and Python.
+
+If not building high-performance backends, you'll find me exploring the depths of retrieval-augmented generation (RAG) pipelines, benchmarking LLM inference latency, and optimizing key-value cache behaviors.
+
+- 🏆 **System Architect**, engineering resilient service booking platforms with Redis Geohashing, distributed locking, and real-time push notifications
+- 🛠 **AI Infrastructure Builder**, developing automated content curators like LLM inference optimisers and Movie curator engines.
+- 🚀 **Backend Developer**, mastering Distributed systems across Spring Boot, FastAPI, Redis, and PostgreSQL for robust data flow
+- 📖 When not coding on my Mac, I'm diving deep into AI research papers or exploring scalable system design patterns. (Follow my journey on X)
+
+- 😄 "CODE IS CHEAP - SHOW ME THE SYSTEM DESIGN"
+
+### Languages and tools I am familiar with: 🚀
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangSmith" />
+  <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white" alt="OpenTelemetry" />
+  <img src="https://img.shields.io/badge/Ngrok-1F1E37?style=for-the-badge&logo=ngrok&logoColor=white" alt="Ngrok" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Apache Kafka" />
   </p>
-</div>
 
----
+### Have a look at my work: 👀
 
-## ME.md
+<p align="left">
+  <a href="https://github.com/SONAI-07">
+    <img src="https://img.shields.io/badge/GITHUB-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
-I build product-focused systems where robust backend architecture, scalable infrastructure, and AI have to work together reliably. 
+### Connect with me at: 📩
 
-My recent work covers:
-
-* inference optimisation and benchmarking for open-weight models
-* distributed backend systems and customised API gateways
-* database persistence, caching strategies, and distributed locking
-* multi-agent workflow systems and LLM orchestration
-
-
-I care about the engineering around the system just as much as the application logic: concurrency scaling, failure handling, latency optimization, and robust architectural design.
-
----
-
-## Featured projects
-
-### [Automated Movie Curator Engine](https://github.com/SONAI-07/Movie_Curator-Agent.git)
-
-An automated movie curator agent that recommends films based on narrative themes using a multi-agent workflow.
-
-* orchestrated complex asynchronous sequential nodes for theme extraction and TMDB link resolution
-* integrated external APIs and models for seamless event-driven data flow
-* automated trigger execution via cloud messaging
-
-Built with: Python, LangGraph, Sarvam AI models, Google Cloud Pub/Sub, TMDB API
-
----
-
-### [LLM Inference Engine Optimizer](https://github.com/SONAI-07/LLM_inference-Engine.git)
-
-A benchmarking infrastructure to evaluate and optimize the performance of Large Language Models.
-
-* implemented benchmarking scripts and thread pool load tests
-* evaluated LLM latency, throughput, and concurrency scaling
-* measured and analyzed key-value cache behavior under heavy loads
-
-Built with: PyTorch, Qwen- 2B(quantised), Python, Hugging-Face Transformers, CUDA optimisations
-
----
-
-
-### [Freight Dispatch & Service Allocation Backend](https://github.com/SONAI-07/Freight_Management-SaaS.git)
-
-A load-balanced booking platform backend supporting real-time service provider search and assignment.
-
-* implemented provider search algorithms utilizing Redis Geohashing
-* calculated vehicle-to-order allocations using the Haversine distance formula with capacity constraints
-* managed distributed locking and handled booking timeouts seamlessly
-* integrated real-time push notifications for active service allocation
-
-Built with: Java, Spring Boot, Redis, Firebase Cloud Messaging
-
----
-
-
-### [Custom Reverse Proxy API Gateway](https://github.com/SONAI-07/Customized_API-Gateway.git)
-
-A custom reverse proxy engine to manage and route traffic efficiently across multiple backend services.
-
-* engineered traffic management and routing algorithms
-* handled concurrent request loads and load balancing across backend ports
-
-Built with: Java, Jetty, Spring WebFlux, Redis
+<p align="left">
+  <a href="mailto:sonaibanerjee571@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://linkedin.com/in/archan-banerjee-b5793521b">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/ArchanPsioppen">
+    <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+</p>
